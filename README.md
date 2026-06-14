@@ -25,5 +25,8 @@ Researchers independently synthesize the analytical results and draft the final 
 
 This human-in-the-loop design ensures that thematic outputs remain grounded in textual evidence, internally coherent, and mutually distinct while benefiting from LLM-assisted processing efficiency.
 
-[Diagram of the HLCTA Method.tif](https://github.com/user-attachments/files/28925835/Diagram.of.the.HLCTA.Method.tif)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f26238fd-b374-4daf-b8a9-3348f4734810" width="85%" alt="Diagram of the HLCTA Method" />
+</p>
+
 
